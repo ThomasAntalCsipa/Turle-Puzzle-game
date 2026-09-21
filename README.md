@@ -10,4 +10,4 @@ The logic loop start with a `input( )` and from
 there it jumps form function to function.
 
 Yes I could have made it in one long function,  
-but at least i learned.
+but at least I learned.
