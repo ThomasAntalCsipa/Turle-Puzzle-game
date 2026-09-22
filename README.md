@@ -12,6 +12,6 @@ there it jumps form function to function.
 Yes I could have made it in one long function,  
 but at least I learned.
 
-# The state:
-I am done with this game.
+## The state:
+I am done with this game.  
 I do not think I will change it anymore
